@@ -1,2 +1,2 @@
-# Estacio
-Repositório para a faculdade
+Repositório para o projeto do super trunfo.
+
